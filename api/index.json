@@ -1,7 +1,7 @@
 [
   {
     "name": "Bat",
-    "avatar": "https://thallesgalv.github.io/api-scare-page/images/bat.svg",
+    "avatar": "https://thallesgalv.github.io/api-scary-page/images/bat.svg",
     "role": "Scrum Master",
     "hobbies": [
       "gerenciar fluxo dos projetos",
@@ -12,7 +12,7 @@
   },
   {
     "name": "Frank",
-    "avatar": "https://thallesgalv.github.io/api-scare-page/images/frank.svg",
+    "avatar": "https://thallesgalv.github.io/api-scary-page/images/frank.svg",
     "role": "Backend Developer",
     "hobbies": [
       "manjar de backend",
@@ -23,7 +23,7 @@
   },
   {
     "name": "Ghaspar",
-    "avatar": "https://thallesgalv.github.io/api-scare-page/images/ghaspar.svg",
+    "avatar": "https://thallesgalv.github.io/api-scary-page/images/ghaspar.svg",
     "role": "Garoto Propaganda da Empresa",
     "hobbies": [
       "tocar o terror",
@@ -34,7 +34,7 @@
   },
   {
     "name": "Jack",
-    "avatar": "https://thallesgalv.github.io/api-scare-page/images/jack.svg",
+    "avatar": "https://thallesgalv.github.io/api-scary-page/images/jack.svg",
     "role": "Designer",
     "hobbies": [
       "dorminar Adobe XD e Figma",
@@ -45,7 +45,7 @@
   },
   {
     "name": "Magda",
-    "avatar": "https://thallesgalv.github.io/api-scare-page/images/magda.svg",
+    "avatar": "https://thallesgalv.github.io/api-scary-page/images/magda.svg",
     "role": "UX Designer",
     "hobbies": [
       "saber a diferença entre UX e UI",
@@ -56,7 +56,7 @@
   },
   {
     "name": "Morkvag",
-    "avatar": "https://thallesgalv.github.io/api-scare-page/images/morkvag.svg",
+    "avatar": "https://thallesgalv.github.io/api-scary-page/images/morkvag.svg",
     "role": "DBA",
     "hobbies": [
       "brigar com Vlad",
@@ -67,7 +67,7 @@
   },
   {
     "name": "Mr. Bones",
-    "avatar": "https://thallesgalv.github.io/api-scare-page/images/mrbones.svg",
+    "avatar": "https://thallesgalv.github.io/api-scary-page/images/mrbones.svg",
     "role": "Frontend Developer",
     "hobbies": [
       "discutir é a melhor lib/framework de Javascript",
@@ -78,7 +78,7 @@
   },
   {
     "name": "Mr. Bones",
-    "avatar": "https://thallesgalv.github.io/api-scare-page/images/mrbones.svg",
+    "avatar": "https://thallesgalv.github.io/api-scary-page/images/mrbones.svg",
     "role": "Frontend Developer",
     "hobbies": [
       "discutir é a melhor lib/framework de Javascript",
@@ -89,7 +89,7 @@
   },
   {
     "name": "Mr. Bones",
-    "avatar": "https://thallesgalv.github.io/api-scare-page/images/mrbones.svg",
+    "avatar": "https://thallesgalv.github.io/api-scary-page/images/mrbones.svg",
     "role": "Frontend Developer",
     "hobbies": [
       "discutir é a melhor lib/framework de Javascript",
@@ -100,7 +100,7 @@
   },
   {
     "name": "Nemesis",
-    "avatar": "https://thallesgalv.github.io/api-scare-page/images/nemesis.svg",
+    "avatar": "https://thallesgalv.github.io/api-scary-page/images/nemesis.svg",
     "role": "Estagiário",
     "hobbies": [
       "comer aperitivos de lóbulo frontal",
@@ -111,7 +111,7 @@
   },
   {
     "name": "Origamid",
-    "avatar": "https://thallesgalv.github.io/api-scare-page/images/origamid.svg",
+    "avatar": "https://thallesgalv.github.io/api-scary-page/images/origamid.svg",
     "role": "Instrutor",
     "hobbies": [
       "fornecer treinamentos para os demais funcionários da empresa",
@@ -122,7 +122,7 @@
   },
   {
     "name": "Reaper",
-    "avatar": "https://thallesgalv.github.io/api-scare-page/images/reaper.svg",
+    "avatar": "https://thallesgalv.github.io/api-scary-page/images/reaper.svg",
     "role": "Full Stack Dev.",
     "hobbies": [
       "matar todas as demandas de projeto",
@@ -132,8 +132,8 @@
     ]
   },
   {
-    "name": "Scarecrow",
-    "avatar": "https://thallesgalv.github.io/api-scare-page/images/scarecrow.svg",
+    "name": "scarycrow",
+    "avatar": "https://thallesgalv.github.io/api-scary-page/images/scarycrow.svg",
     "role": "Software Tester",
     "hobbies": [
       "espantar bugs, pragas e covos",
@@ -144,7 +144,7 @@
   },
   {
     "name": "Tutan",
-    "avatar": "https://thallesgalv.github.io/api-scare-page/images/tutan.svg",
+    "avatar": "https://thallesgalv.github.io/api-scary-page/images/tutan.svg",
     "role": "Programador C",
     "hobbies": [
       "curtir suas férias no Egito",
@@ -155,7 +155,7 @@
   },
   {
     "name": "Ungoliant",
-    "avatar": "https://thallesgalv.github.io/api-scare-page/images/ungoliant.svg",
+    "avatar": "https://thallesgalv.github.io/api-scary-page/images/ungoliant.svg",
     "role": "Auxiliar Administrativa",
     "hobbies": [
       "ser multitarefa com suas 8 patas",
@@ -166,7 +166,7 @@
   },
   {
     "name": "Vlad",
-    "avatar": "https://thallesgalv.github.io/api-scare-page/images/vlad.svg",
+    "avatar": "https://thallesgalv.github.io/api-scary-page/images/vlad.svg",
     "role": "CEO e Frontend Developer",
     "hobbies": [
       "passear pela noite",
