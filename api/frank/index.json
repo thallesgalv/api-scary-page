@@ -1,0 +1,11 @@
+{
+  "name": "Frank",
+  "avatar": "https://thallesgalv.github.io/api-scare-page/images/frank.svg",
+  "role": "Backend Developer",
+  "hobbies": [
+    "manjar de backend",
+    "ser mestre em POO",
+    "colecionar partes do corpo de outras pessoas",
+    "dorminar Node.js"
+  ]
+}

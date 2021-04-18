@@ -1,0 +1,178 @@
+[
+  {
+    "name": "Bat",
+    "avatar": "https://thallesgalv.github.io/api-scare-page/images/bat.svg",
+    "role": "Scrum Master",
+    "hobbies": [
+      "gerenciar fluxo dos projetos",
+      "visitar seu amigo, Golbat",
+      "conversar com Vlad",
+      "fuguir da anti-rábica"
+    ]
+  },
+  {
+    "name": "Frank",
+    "avatar": "https://thallesgalv.github.io/api-scare-page/images/frank.svg",
+    "role": "Backend Developer",
+    "hobbies": [
+      "manjar de backend",
+      "ser mestre em POO",
+      "colecionar partes do corpo de outras pessoas",
+      "dorminar Node.js"
+    ]
+  },
+  {
+    "name": "Ghaspar",
+    "avatar": "https://thallesgalv.github.io/api-scare-page/images/ghaspar.svg",
+    "role": "Garoto Propaganda da Empresa",
+    "hobbies": [
+      "tocar o terror",
+      "ser carismático",
+      "visitar sua sepultura",
+      "assustar geraaal"
+    ]
+  },
+  {
+    "name": "Jack",
+    "avatar": "https://thallesgalv.github.io/api-scare-page/images/jack.svg",
+    "role": "Designer",
+    "hobbies": [
+      "dorminar Adobe XD e Figma",
+      "fazer protótipos assustadores",
+      "se divertir no halloween",
+      "almeja virar um legume mais saboroso"
+    ]
+  },
+  {
+    "name": "Magda",
+    "avatar": "https://thallesgalv.github.io/api-scare-page/images/magda.svg",
+    "role": "UX Designer",
+    "hobbies": [
+      "saber a diferença entre UX e UI",
+      "fazer muuuitas pesquisas",
+      "ovuir os passarinhos do lustre do castelo",
+      "visitar sua família em Salém"
+    ]
+  },
+  {
+    "name": "Morkvag",
+    "avatar": "https://thallesgalv.github.io/api-scare-page/images/morkvag.svg",
+    "role": "DBA",
+    "hobbies": [
+      "brigar com Vlad",
+      "uivar para a lua cheia",
+      "jogar Gwent",
+      "pronunciar MySQL de forma correta"
+    ]
+  },
+  {
+    "name": "Mr. Bones",
+    "avatar": "https://thallesgalv.github.io/api-scare-page/images/mrbones.svg",
+    "role": "Frontend Developer",
+    "hobbies": [
+      "discutir é a melhor lib/framework de Javascript",
+      "aprender um novo lib/framework de Javascript por semana",
+      "estudar sem parar",
+      "amar o seu trabalho"
+    ]
+  },
+  {
+    "name": "Mr. Bones",
+    "avatar": "https://thallesgalv.github.io/api-scare-page/images/mrbones.svg",
+    "role": "Frontend Developer",
+    "hobbies": [
+      "discutir é a melhor lib/framework de Javascript",
+      "aprender um novo lib/framework de Javascript por semana",
+      "estudar sem parar",
+      "amar o seu trabalho"
+    ]
+  },
+  {
+    "name": "Mr. Bones",
+    "avatar": "https://thallesgalv.github.io/api-scare-page/images/mrbones.svg",
+    "role": "Frontend Developer",
+    "hobbies": [
+      "discutir é a melhor lib/framework de Javascript",
+      "aprender um novo lib/framework de Javascript por semana",
+      "estudar sem parar",
+      "amar o seu trabalho"
+    ]
+  },
+  {
+    "name": "Nemesis",
+    "avatar": "https://thallesgalv.github.io/api-scare-page/images/nemesis.svg",
+    "role": "Estagiário",
+    "hobbies": [
+      "comer aperitivos de lóbulo frontal",
+      "ficar horas estudando react sem dormir",
+      "passear por Raccon City",
+      "fugir de plantas atiradoras de ervilha"
+    ]
+  },
+  {
+    "name": "Origamid",
+    "avatar": "https://thallesgalv.github.io/api-scare-page/images/origamid.svg",
+    "role": "Instrutor",
+    "hobbies": [
+      "fornecer treinamentos para os demais funcionários da empresa",
+      "uivar para a lua cheia",
+      "caçar com a alcateia",
+      "ter uma didática TOP"
+    ]
+  },
+  {
+    "name": "Reaper",
+    "avatar": "https://thallesgalv.github.io/api-scare-page/images/reaper.svg",
+    "role": "Full Stack Dev.",
+    "hobbies": [
+      "matar todas as demandas de projeto",
+      "visitar seus irmãos, os Perpétuos",
+      "ligar para as pessoas e perguntar qual é o filme de terror favorito delas",
+      "dar rolê com seu amigo Penadinho"
+    ]
+  },
+  {
+    "name": "Scarecrow",
+    "avatar": "https://thallesgalv.github.io/api-scare-page/images/scarecrow.svg",
+    "role": "Software Tester",
+    "hobbies": [
+      "espantar bugs, pragas e covos",
+      "pedir um cérebro ao Mágico de Oz (ASAP)",
+      "saber o que você fez no verão passado",
+      "melhorar no LOL"
+    ]
+  },
+  {
+    "name": "Tutan",
+    "avatar": "https://thallesgalv.github.io/api-scare-page/images/tutan.svg",
+    "role": "Programador C",
+    "hobbies": [
+      "curtir suas férias no Egito",
+      "dar rolê com o Escorpião Rei",
+      "tirar soneca de 400 anos",
+      "dar bons conselhos para os jovens de hoje em dia"
+    ]
+  },
+  {
+    "name": "Ungoliant",
+    "avatar": "https://thallesgalv.github.io/api-scare-page/images/ungoliant.svg",
+    "role": "Auxiliar Administrativa",
+    "hobbies": [
+      "ser multitarefa com suas 8 patas",
+      "caçar hobbits",
+      "fazer coisas de aranha",
+      "almeja se tornar radioativa para ter super-poderes"
+    ]
+  },
+  {
+    "name": "Vlad",
+    "avatar": "https://thallesgalv.github.io/api-scare-page/images/vlad.svg",
+    "role": "CEO e Frontend Developer",
+    "hobbies": [
+      "passear pela noite",
+      "beber bons vinhos tintos (sabor O+)",
+      "curtir a vida eterna adoidado",
+      "atravessar oceanos de tempo"
+    ]
+  }
+]
