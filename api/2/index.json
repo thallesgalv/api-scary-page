@@ -1,0 +1,12 @@
+{
+  "id": 2,
+  "name": "Bat",
+  "avatar": "https://thallesgalv.github.io/api-scary-page/images/bat.svg",
+  "role": "Scrum Master",
+  "hobbies": [
+    "gerenciar fluxo dos projetos",
+    "visitar seu amigo, Golbat",
+    "conversar com Vlad",
+    "fuguir da anti-rábica"
+  ]
+}

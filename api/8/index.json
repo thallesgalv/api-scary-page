@@ -1,0 +1,12 @@
+{
+  "id": 8,
+  "name": "Mr. Bones",
+  "avatar": "https://thallesgalv.github.io/api-scary-page/images/mrbones.svg",
+  "role": "Frontend Developer",
+  "hobbies": [
+    "discutir é a melhor lib/framework de Javascript",
+    "aprender um novo lib/framework de Javascript por semana",
+    "estudar sem parar",
+    "amar o seu trabalho"
+  ]
+}

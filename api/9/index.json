@@ -1,0 +1,12 @@
+{
+  "id": 9,
+  "name": "Nemesis",
+  "avatar": "https://thallesgalv.github.io/api-scary-page/images/nemesis.svg",
+  "role": "Estagiário",
+  "hobbies": [
+    "comer aperitivos de lóbulo frontal",
+    "ficar horas estudando react sem dormir",
+    "passear por Raccon City",
+    "fugir de plantas atiradoras de ervilha"
+  ]
+}

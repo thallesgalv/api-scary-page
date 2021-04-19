@@ -1,0 +1,12 @@
+{
+  "id": 7,
+  "name": "Morkvag",
+  "avatar": "https://thallesgalv.github.io/api-scary-page/images/morkvag.svg",
+  "role": "DBA",
+  "hobbies": [
+    "brigar com Vlad",
+    "uivar para a lua cheia",
+    "jogar Gwent",
+    "pronunciar MySQL de forma correta"
+  ]
+},

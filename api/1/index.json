@@ -1,0 +1,12 @@
+{
+  "id": 1,
+  "name": "Vlad",
+  "avatar": "https://thallesgalv.github.io/api-scary-page/images/vlad.svg",
+  "role": "CEO e Frontend Developer",
+  "hobbies": [
+    "passear pela noite",
+    "beber bons vinhos tintos (sabor O+)",
+    "curtir a vida eterna adoidado",
+    "atravessar oceanos de tempo"
+  ]
+}
